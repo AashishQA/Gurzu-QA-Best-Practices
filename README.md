@@ -1,1 +1,0 @@
-Gurzu QA Best Practices
